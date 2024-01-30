@@ -1,6 +1,6 @@
 ### Hey there 🕺
 
-Welcome to my GitHub! On this page you will find a collection of all my projects, whether they were for a friend, school, or even just for fun. 
+On this page you will find a collection of all my projects, whether they were for a friend, school, or even just for fun. 
 
 - 🔭 I’m currently working on: ...
 - 🌱 I’m currently learning: Data Structures, Algorithims, and Optimization
