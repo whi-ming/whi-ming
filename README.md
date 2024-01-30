@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there 🕺
 
 Welcome to my GitHub! On this page you will find a collection of all my projects, whether they were for a friend, school, or even just for fun. 
 
