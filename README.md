@@ -2,8 +2,7 @@
 
 On this page you will find a collection of all my projects, whether they were for a friend, school, or even just for fun. 
 
-- 🔭 I’m currently working on: My website!
-- 🌱 I’m currently learning: Data Structures, Algorithims, and Optimization
+- 🔭 I’m currently working on: my website
 - 📫 How to reach me: whimingj@gmail.com
 <!--
 **whi-ming/whi-ming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
